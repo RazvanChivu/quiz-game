@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Inside which HTML element do we put the JavaScript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xx.js'?",
+        "choice1": "<script href = 'xx.js'>",
+        "choice2": "<script name = 'xx.js'>",
+        "choice3": "<script src = 'xx.js'>",
+        "choice4": "<script file = 'xx.js'>",
+        "answer": 3
+    },
+    {
+        "question": "How do you close a div?",
+        "choice1": "<end.div>",
+        "choice2": "<div>",
+        "choice3": "</div>",
+        "choice4": "<close.div>",
+        "answer": 3
+    }
+]
